@@ -19,7 +19,7 @@ Dentro de este proyecto de investigación se desarrora paso a paso un proyecto p
  Nombre del proyecto:
  
  
-Sistema Mimetizador Visualizador de Mensajes
+Brazo robotico industrial arduino
 
 
 1.1 Descripción del problema
